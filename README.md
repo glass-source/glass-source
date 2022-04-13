@@ -1,9 +1,9 @@
 # About me!
 
--☕ Java Developer
+-☕ Java Developer (Entry / Junior)
 
 -♾️ Infinium SMP Founder & Developer
 
--📖 Paper API
+-📝 Paper API
 
 -🌑 Learning Fabric API
