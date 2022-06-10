@@ -6,4 +6,4 @@
 
 -📝 Paper API
 
--🌑 Learning Fabric API
+-🌑 Fabric API
