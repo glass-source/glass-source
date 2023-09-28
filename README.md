@@ -2,7 +2,7 @@
 
 -☕ Java Developer (Entry / Junior)
 
--♾️ Infinium SMP Founder & Developer
+-♾️ Minecraft <3
 
 -📝 Paper API
 
