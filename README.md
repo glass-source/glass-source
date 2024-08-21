@@ -2,7 +2,7 @@
 
 -☕ Java Developer (Entry / Junior)
 
--♾️ Minecraft <3
+-♾️ Modded MC
 
 -📝 Paper API
 
