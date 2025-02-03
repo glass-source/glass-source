@@ -29,7 +29,7 @@ SWI student. Coding, videogames, movies, music, whatever.
 - [A Minecraft mod](https://github.com/glass-source/NoGlowing)
 - [Job Recruiting Assistant](https://github.com/winston142O/Hackathon-AI-Recruiting-Assistant)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Have been a bit inactive due to reasons, hopefully that changes this year)
 
 ![glass-source's GitHub stats](https://github-readme-stats.vercel.app/api?username=glass-source&show_icons=true&theme=radical)
 
