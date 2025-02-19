@@ -1,6 +1,6 @@
 # 👋 About me:
 
-SWI student. Coding, videogames, movies, music, whatever.
+Software Engineering student. Coding, videogames, movies, music, whatever.
 
 ## 🛠️ Things I use:
 
