@@ -24,7 +24,6 @@ Software Engineering student. Coding, videogames, movies, music, whatever.
 ## 📂 Stuff I've worked on:
 
 - [Template CRUD](https://github.com/glass-source/TemplateCrud)
-- [A Minecraft mod](https://github.com/glass-source/NoGlowing)
 - [Job Recruiting Assistant](https://github.com/winston142O/Hackathon-AI-Recruiting-Assistant)
 - [A tetris clone](https://github.com/glass-source/TetrisForm)
 - [A lightweight task tracker](https://github.com/glass-source/cli-task-tracker)
