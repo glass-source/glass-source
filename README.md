@@ -4,7 +4,6 @@ Software Engineering student. Coding, videogames, movies, music, whatever.
 
 ## 🛠️ Things I use:
 
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://nodejs.org/)
@@ -16,7 +15,6 @@ Software Engineering student. Coding, videogames, movies, music, whatever.
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](https://www.chartjs.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](https://www.jetbrains.com/es-es/rider/)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
@@ -28,6 +26,7 @@ Software Engineering student. Coding, videogames, movies, music, whatever.
 - [Template CRUD](https://github.com/glass-source/TemplateCrud)
 - [A Minecraft mod](https://github.com/glass-source/NoGlowing)
 - [Job Recruiting Assistant](https://github.com/winston142O/Hackathon-AI-Recruiting-Assistant)
+- [A tetris clone](https://github.com/glass-source/TetrisForm)
 
 ## 📈 GitHub Stats (Have been a bit inactive due to reasons, hopefully that changes this year)
 
