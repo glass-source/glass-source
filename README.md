@@ -23,10 +23,10 @@ Software Engineering student. Coding, videogames, movies, music, whatever.
 
 ## 📂 Stuff I've worked on:
 
-- [CRUD for Products](https://github.com/glass-source/Products-Crud)
+- [TinyURL clone]([https://github.com/glass-source/Products-Crud](https://github.com/glass-source/ShortBoot))
 - [Job Recruiting Assistant](https://github.com/winston142O/Hackathon-AI-Recruiting-Assistant)
-- [A tetris clone](https://github.com/glass-source/TetrisForm)
-- [A lightweight task tracker](https://github.com/glass-source/cli-task-tracker)
+- [Tetris clone](https://github.com/glass-source/TetrisForm)
+- [Lightweight task tracker](https://github.com/glass-source/cli-task-tracker)
 
 ## 📈 GitHub Stats (Need to get that grind up again)
 
